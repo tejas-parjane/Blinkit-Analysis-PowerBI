@@ -1,3 +1,16 @@
+
+
+
+
+
+![blinkit_img](https://github.com/user-attachments/assets/771e78fe-b0b9-44b6-82c8-20e98844f0d4)
+
+
+
+
+
+
+
 # Blinkit-Analysis-PowerBI
 End-to-End Analysis of Blinkit grocery Data set:   
 
